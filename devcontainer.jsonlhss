@@ -1,0 +1,12 @@
+JSON
+{
+  "name": "lh-designer",
+  "dockerfile": "Dockerfile",
+  "context": ".",
+  "extensions": ["vscode-xcode", "vscode-swift"],
+  "settings": {
+    "editor.fontSize": 14,
+    "terminal.integrated.shell.windows": "pwsh"
+  },
+  "prebuilts": ["xcode"]
+}
