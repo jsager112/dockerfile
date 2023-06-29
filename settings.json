@@ -1,0 +1,11 @@
+JSON
+{
+  "editor.fontSize": 14,
+  "editor.colorScheme": "Darcula",
+  "keybindings": [
+    {
+      "command": "workbench.action.terminal.new",
+      "key": "ctrl+alt+t"
+    }
+  ]
+}
